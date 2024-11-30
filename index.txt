@@ -11,7 +11,7 @@
 cellpadding="7" cellspacing="9" align="center">
 <tr bgcolor="#D8BFD8">
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\porpoleli.jpg" width="400" height="400">
+<img src="porpoleli.jpg" width="400" height="400">
 </td>
 </tr>
 </table>
@@ -31,7 +31,7 @@ cellpadding="7" cellspacing="9" align="center">
 </textarea><br>
 
 
-<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="1000"
+<table border="7" background="tulips.jg.jpeg" width="1000"
 cellpadding="7" cellspacing="9" align="center">
 <caption>
 <h3 style="font-family:Helvetica; color:white;"> ABOUT ME </h3></caption>
@@ -62,7 +62,7 @@ cellpadding="7" cellspacing="9" align="center">
 </table>
 
 
-<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="500"
+<table border="7" background="tulips.jg.jpeg" width="500"
 cellpadding="7" cellspacing="9" align="center">
 <caption>
 <h3 style="font-family:Helvetica; color:white;"> FAMILY </h3></caption>
@@ -71,7 +71,7 @@ cellpadding="7" cellspacing="9" align="center">
 </tr> 
 <tr>
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\fam.jpg" width="700" height="800">
+<img src="fam.jpg" width="700" height="800">
 </td>
 </tr>
 
@@ -88,34 +88,34 @@ cellpadding="7" cellspacing="9" align="center">
 </ul>
 </table>
 
-<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="500" cellpadding="7" cellspacing="9" align="center">
+<table border="7" background="tulips.jg.jpeg" width="500" cellpadding="7" cellspacing="9" align="center">
 <h3 style="font-family:Helvetica; color:white;"> FRIENDS </h3></caption>
 <tr height="40" bgcolor="pink">
 <th><b> MY FRIENDS </b></th>
 </tr>
 <tr>
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\friends.jpg" width="600" height="500">
+<img src=friends.jpg" width="600" height="500">
 </td>
 </tr>
 </table>
 
 
-<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="600" cellpadding="7" cellspacing="9" align="center">
+<table border="7" background="tulips.jg.jpeg" width="600" cellpadding="7" cellspacing="9" align="center">
 <h3 style="font-family:Helvetica; color:white;"> SCHOOL </h3></caption>
 <tr height="40" bgcolor="pink">
 <th><b> MY SECTION </b></th>
 </tr>
 <tr>
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\section.jpg" width="700" height="500">
+<img src="section.jpg" width="700" height="500">
 </td>
 </tr>
 </table>
 
 
 
-<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="1000" cellpadding="7" cellspacing="9" align="center">
+<table border="7" background="tulips.jg.jpeg" width="1000" cellpadding="7" cellspacing="9" align="center">
 <h3 style="font-family:Helvetica; color:white;"> SCHOOL ACTIVITIES </h3></caption>
 <tr height="40" bgcolor="pink">
 <th><b> ESP GROUPINGS </b></th>
@@ -123,10 +123,10 @@ cellpadding="7" cellspacing="9" align="center">
 </tr>
 <tr>
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\esp.jpg" width="600" height="700">
+<img src="esp.jpg" width="600" height="700">
 </td>
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\fd.jpg" width="400" height="700">
+<img src="fd.jpg" width="400" height="700">
 </td>
 </table>
 
@@ -143,7 +143,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L2%20(2).pdf" target="_blank"> Lesson 2 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="/Q1L2%20(2).pdf" target="_blank"> Lesson 2 </a> </p> </td>
 </tr>
 </table>
 
@@ -152,7 +152,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L3%20(2).pdf" target="_blank"> Lesson 3 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="Q1L3%20(2).pdf" target="_blank"> Lesson 3 </a> </p> </td>
 </tr>
 </table>
 
@@ -160,7 +160,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L4%20(1).pdf" target="_blank"> Lesson 4 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="Q1L4%20(1).pdf" target="_blank"> Lesson 4 </a> </p> </td>
 </tr>
 </table>
 
@@ -168,7 +168,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Lesson-5%20(1).pdf" target="_blank"> Lesson 5 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="Lesson-5%20(1).pdf" target="_blank"> Lesson 5 </a> </p> </td>
 </tr>
 </table>
 
@@ -176,7 +176,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L6.pdf" target="_blank"> Lesson 6 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="Q1L6.pdf" target="_blank"> Lesson 6 </a> </p> </td>
 </tr>
 </table>
 
@@ -184,7 +184,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L7.pdf" target="_blank"> Lesson 7 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="Q1L7.pdf" target="_blank"> Lesson 7 </a> </p> </td>
 </tr>
 </table>
 
@@ -192,7 +192,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L8.pdf" target="_blank"> Lesson 8 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="Q1L8.pdf" target="_blank"> Lesson 8 </a> </p> </td>
 </tr>
 </table>
 
@@ -200,7 +200,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/OneDrive/Documents/Odrie/idk.html" target="_blank"> All about ICT</a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="idk.html" target="_blank"> All about ICT</a> </p> </td>
 </tr>
 </table>
 
@@ -209,7 +209,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="C:\Users\Jesusa Cuenca\OneDrive\Pictures\Screenshots\Screenshot 2024-09-30 202838.png" target="_blank"> Reflection</a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="Screenshot 2024-09-30 202838.png" target="_blank"> Reflection</a> </p> </td>
 </tr>
 </table>
 
@@ -217,21 +217,21 @@ cellpadding="7" cellspacing="9" align="center">
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="C:\Users\Jesusa Cuenca\Downloads\461607871_8352345141468436_1157698077040012292_n.mp4" target="_blank"> RANDOM VID .1 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="461607871_8352345141468436_1157698077040012292_n.mp4" target="_blank"> RANDOM VID .1 </a> </p> </td>
 </tr>
 </table>
 
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="C:\Users\Jesusa Cuenca\Downloads\461181434_8416156345112199_240795747490824358_n.mp4" target="_blank"> RANDOM VID .2 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="461181434_8416156345112199_240795747490824358_n.mp4" target="_blank"> RANDOM VID .2 </a> </p> </td>
 </tr>
 </table>
 
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/OneDrive/Documents/Odrie/htdafml.html" _blank"> RANDOM c </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="htdafml.html" _blank"> RANDOM c </a> </p> </td>
 </tr>
 </table>
 
@@ -289,7 +289,7 @@ cellpadding="7" cellspacing="9" align="center">
 
 
 <video controls>
-<source src="C:\Users\Jesusa Cuenca\Downloads\461445960_7581415925294595_2764223878193146078_n.mp4" type="video/mp4"
+<source src="461445960_7581415925294595_2764223878193146078_n.mp4" type="video/mp4"
 </video>
 
 
