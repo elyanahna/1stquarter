@@ -1,0 +1,299 @@
+<html> 
+     <head>
+     <title>ICT PORTFOLIO</title></head> 
+
+     <body style="background-color:#C8A4D4"align="center">
+     <h1 style="font-family:Anton; color:white;">Eliana's ICT Portfolio </h1> <hr width="100%">
+       <form action="https://www.angsarap.com" method="post"> 
+     <h3 style="font-family:Spectrana; color:white;">Hi, my name is Eliana Odrie P. Perez, 14 years old. I am a grade 9 student in lpsci and I like playing volleyball with my friends. I would like to say that I will never cram again.:)  </h3>
+
+<table border="5" width="450"
+cellpadding="7" cellspacing="9" align="center">
+<tr bgcolor="#D8BFD8">
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\porpoleli.jpg" width="400" height="400">
+</td>
+</tr>
+</table>
+
+<h2 style="font-family:Century Gothic; color:white;">Play me! </h2>
+
+<audio controls>
+<source src="C:\Users\Jesusa Cuenca\Downloads\NIKI - Buzz (Official Music Video) (1).mp3" type="audio/mp3">
+</audio>
+
+
+
+     <h3 style="font-family:Century Gothic; color:white;">Topics <select name="ayokona" size="1">
+       <option>School</option> <option>About me</option> <option>Family</option> <option>Friends</option> <option>Other</option>
+     </select></h3>
+     <h3 style="font-family:Century Gothic; color:white;">Lets go!</h3> <textarea cols="40" rows="6">
+</textarea><br>
+
+
+<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="1000"
+cellpadding="7" cellspacing="9" align="center">
+<caption>
+<h3 style="font-family:Helvetica; color:white;"> ABOUT ME </h3></caption>
+<tr height="70" bgcolor="pink">
+<th width="350"><b>Likes</b></th>
+<th width="350"><b>Dislikes</b></th>
+<th width="350"><b>Neutral</b></th>
+</tr> 
+
+<tr>
+<td align="center" bgcolor="pink" width="200">Mangoes</td>
+<td align="center"bgcolor="pink">Bitter Gourd</td>
+<td align="center"bgcolor="pink">Natto</td>
+</tr>
+
+
+<tr>
+<td align="center"bgcolor="pink">Llao LLao</td>
+<td align="center"bgcolor="pink">Olives</td>
+<td align="center"bgcolor="pink">Ginger</td>
+</tr>
+
+<tr>
+<td align="center"bgcolor="pink">Sinigang </td>
+<td align="center"bgcolor="pink">Mushrooms</td>
+<td align="center"bgcolor="pink">Mint chocolate</td>
+</tr>
+</table>
+
+
+<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="500"
+cellpadding="7" cellspacing="9" align="center">
+<caption>
+<h3 style="font-family:Helvetica; color:white;"> FAMILY </h3></caption>
+<tr height="40" bgcolor="pink">
+<th><b> We are family of 5 </b> </th>
+</tr> 
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\fam.jpg" width="700" height="800">
+</td>
+</tr>
+
+
+<tr bgcolor="pink">
+<td>
+<h4> My family tree </h4>
+<ul type="square">
+<li> Daddy Elmer </li>
+<li> Mommy Olive </li>
+<li> Ate Odrie </li>
+<li> Oliel </li>
+<li> Olivia </li>
+</ul>
+</table>
+
+<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="500" cellpadding="7" cellspacing="9" align="center">
+<h3 style="font-family:Helvetica; color:white;"> FRIENDS </h3></caption>
+<tr height="40" bgcolor="pink">
+<th><b> MY FRIENDS </b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\friends.jpg" width="600" height="500">
+</td>
+</tr>
+</table>
+
+
+<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="600" cellpadding="7" cellspacing="9" align="center">
+<h3 style="font-family:Helvetica; color:white;"> SCHOOL </h3></caption>
+<tr height="40" bgcolor="pink">
+<th><b> MY SECTION </b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\section.jpg" width="700" height="500">
+</td>
+</tr>
+</table>
+
+
+
+<table border="7" background="C:\Users\Jesusa Cuenca\Downloads\tulips.jg.jpeg" width="1000" cellpadding="7" cellspacing="9" align="center">
+<h3 style="font-family:Helvetica; color:white;"> SCHOOL ACTIVITIES </h3></caption>
+<tr height="40" bgcolor="pink">
+<th><b> ESP GROUPINGS </b></th>
+<th> <b> FOUNDATION DAY </b> </th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\esp.jpg" width="600" height="700">
+</td>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\fd.jpg" width="400" height="700">
+</td>
+</table>
+
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> LESSON 1: XHTML and HTML </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.15752-9/461030647_1244815746935923_768700745502386720_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeH6qnjfx5rK9UbpUaB5vF2ManB5L1aZ-PJqcHkvVpn48kYP2fAX-5w7AodBeX-v-Qet_z8TsY-Pwg1IT_RfaNlc&_nc_ohc=248id03RkC8Q7kNvgEjarWo&_nc_ht=scontent.fmnl3-1.fna&oh=03_Q7cD1QEpWMksT4_0rb6MS-aRM-GQGQrX7VugKLjBt6bcGeSGJQ&oe=6721F4A9" target="_blank"> Lesson 1 </a> </p> </td>
+</tr>
+</table>
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> LESSON 2: HTML LISTS </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L2%20(2).pdf" target="_blank"> Lesson 2 </a> </p> </td>
+</tr>
+</table>
+
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> LESSON 3: TABLES </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L3%20(2).pdf" target="_blank"> Lesson 3 </a> </p> </td>
+</tr>
+</table>
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> LESSON 4: TABLES </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L4%20(1).pdf" target="_blank"> Lesson 4 </a> </p> </td>
+</tr>
+</table>
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> LESSON 5: HYPERLINKS </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Lesson-5%20(1).pdf" target="_blank"> Lesson 5 </a> </p> </td>
+</tr>
+</table>
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> LESSON 6: HTML FORMS </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L6.pdf" target="_blank"> Lesson 6 </a> </p> </td>
+</tr>
+</table>
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> LESSON 7: HTML FORMS 2 </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L7.pdf" target="_blank"> Lesson 7 </a> </p> </td>
+</tr>
+</table>
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> LESSON 8: HTML FORMS 3 </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/Downloads/Q1L8.pdf" target="_blank"> Lesson 8 </a> </p> </td>
+</tr>
+</table>
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> ICT ACTIVITIES </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/OneDrive/Documents/Odrie/idk.html" target="_blank"> All about ICT</a> </p> </td>
+</tr>
+</table>
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> REFLECTION </h1>
+
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="C:\Users\Jesusa Cuenca\OneDrive\Pictures\Screenshots\Screenshot 2024-09-30 202838.png" target="_blank"> Reflection</a> </p> </td>
+</tr>
+</table>
+
+<h1 style="text-align:center; color:white; border-width:2px; border-style:ridge; border-color:white;"> RANDOM ABOUT MY LITTLE LIFE </h1>
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="C:\Users\Jesusa Cuenca\Downloads\461607871_8352345141468436_1157698077040012292_n.mp4" target="_blank"> RANDOM VID .1 </a> </p> </td>
+</tr>
+</table>
+
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="C:\Users\Jesusa Cuenca\Downloads\461181434_8416156345112199_240795747490824358_n.mp4" target="_blank"> RANDOM VID .2 </a> </p> </td>
+</tr>
+</table>
+
+
+<table border="7" align="center">
+<tr>
+<td> <p style="font-size:25px;"> <a href="file:///C:/Users/Jesusa%20Cuenca/OneDrive/Documents/Odrie/htdafml.html" _blank"> RANDOM c </a> </p> </td>
+</tr>
+</table>
+
+
+
+
+<form action="http://www.myserver.com/myscript.cgi" method="post">
+<h5> Name <input type="text"> </h5>
+<h5> Email Address <input type="text"> </h5>
+<br>
+
+
+<li> <p> What do i need to improve?</p> </li>
+<p> <input name="pictype" type="radio" value="cross"> Content
+<input name="pictype" type="radio" value="cross"> Creativity
+<input name="pictype" type="radio" value="cross"> Originality
+<input name="pictype" type="radio" value="cross"> None </p>
+
+<li> <p> Is the content appropriate?</p> </li>
+<p> <input name="pictype" type="radio" value="cross"> Agree
+<input name="pictype" type="radio" value="cross"> Neutral
+<input name="pictype" type="radio" value="cross"> Disagree
+<input name="pictype" type="radio" value="cross"> None </p>
+
+<li> <p> Overall Presentation </p> </li>
+<p> <input type="checkbox"> Very Good
+<input type="checkbox"> Good
+<input type="checkbox"> Mid
+<input type="checkbox"> Bad
+<input type="checkbox"> Very Bad </p>
+
+
+
+<p> Rate my first portfolio</p> 
+<select size="4">
+<option> 1 </option>
+<option> 2 </option>
+<option> 3 </option>
+<option> 4 </option>
+<option> 5 </option>
+<option> 6 </option>
+<option> 7 </option>
+<option> 8 </option>
+<option> 9 </option>
+<option> 10 </option>
+</select>
+
+<li> <p> What should I add for the next quarter's portfolio </p> </li>
+<textarea rows="5" cols="15"> </textarea>
+<br>
+<br>
+
+<input type="submit">
+<input type="reset">
+
+
+<video controls>
+<source src="C:\Users\Jesusa Cuenca\Downloads\461445960_7581415925294595_2764223878193146078_n.mp4" type="video/mp4"
+</video>
+
+
+
+</form> 
+</body>
+</html>
