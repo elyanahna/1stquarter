@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>Customer Satisfaction Survey</title></head>
+        <body align="justify">
+        <h1>Customer Satifaction Survey</h1>
+        <hr width="100%">
+        
+        <form action="https://www.angsarap.com" method="post">
+            <h3>Name <input type="text"></h3>
+            <h3>City <select name="ayokona" size="1">
+                <option>Choose City</option>
+                <option>Las Pinas</option>
+                <option>Cavite</option>
+                <option>Tarlac</option>
+                <option>Other</option>
+            </select></h3>
+
+            <h3>Why did you contact Customer Service?</h3>
+            <textarea cols="40" rows="6"></textarea><br>
+
+            <h3>What method did you use to contact Customer Service?</h3>
+            <input type="radio">Telephone
+            <input type="radio">Mail
+            <input type="radio">E-Mail
+            <input type="radio">Fax
+            <input type="radio">Other
+            <br><br>
+
+            <h3>How satisfies are you with the time it took Customer Service to answer your question?</h3>
+            <input type="radio">Very Dissatisfied
+            <input type="radio">Dissatisfied
+            <input type="radio">Undecided
+            <input type="radio">Satisfied
+            <input type="radio">Very Satisfied
+
+            <br><br>
+
+            <h2>Please tell us how much you Agree or Disagree with these statements.</h2>
+
+            <h3>The Customer Service Representative was knowledgable and easy to understand</h3>
+            <input type="radio">Strongly Disagree
+            <input type="radio">Disagree
+            <input type="radio">Undecided
+            <input type="radio">Agree
+            <input type="radio">Strongly Agree
+
+            <h3>The Customer Service Representative was able to handle my problem quickly and to my satisfaction</h3>
+            <input type="radio">Strongly Disagree
+            <input type="radio">Disagree
+            <input type="radio">Undecided
+            <input type="radio">Agree
+            <input type="radio">Strongly Agree
+
+            <h3>The Customer Service Representative was courteous and professional</h3>
+            <input type="radio">Strongly Disagree
+            <input type="radio">Disagree
+            <input type="radio">Undecided
+            <input type="radio">Agree
+            <input type="radio">Strongly Agree
+
+            <br><br>
+
+            <input type="submit"><input type="reset">
+
+
+        </form>
+    </body>
+</html>
